@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https//:poojagirne.github.io/gliofy/static/css/main.eff0f2b1.chunk.css",
+    "main.js": "/https//:poojagirne.github.io/gliofy/static/js/main.99c9e62e.chunk.js",
+    "main.js.map": "/https//:poojagirne.github.io/gliofy/static/js/main.99c9e62e.chunk.js.map",
+    "runtime-main.js": "/https//:poojagirne.github.io/gliofy/static/js/runtime-main.153c08f6.js",
+    "runtime-main.js.map": "/https//:poojagirne.github.io/gliofy/static/js/runtime-main.153c08f6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/https//:poojagirne.github.io/gliofy/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3c0a536.chunk.js": "/https//:poojagirne.github.io/gliofy/static/js/2.d3c0a536.chunk.js",
+    "static/js/2.d3c0a536.chunk.js.map": "/https//:poojagirne.github.io/gliofy/static/js/2.d3c0a536.chunk.js.map",
+    "static/js/3.a35d7a66.chunk.js": "/https//:poojagirne.github.io/gliofy/static/js/3.a35d7a66.chunk.js",
+    "static/js/3.a35d7a66.chunk.js.map": "/https//:poojagirne.github.io/gliofy/static/js/3.a35d7a66.chunk.js.map",
+    "index.html": "/https//:poojagirne.github.io/gliofy/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/https//:poojagirne.github.io/gliofy/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.eff0f2b1.chunk.css.map": "/https//:poojagirne.github.io/gliofy/static/css/main.eff0f2b1.chunk.css.map",
+    "static/js/2.d3c0a536.chunk.js.LICENSE.txt": "/https//:poojagirne.github.io/gliofy/static/js/2.d3c0a536.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//:poojagirne.github.io/gliofy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.153c08f6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3c0a536.chunk.js",
+    "static/css/main.eff0f2b1.chunk.css",
+    "static/js/main.99c9e62e.chunk.js"
+  ]
+}
